@@ -16,9 +16,9 @@
 (defvar my/favorite-packages
   '(
     ;;utils
-    elscreen init-loader mozc auto-install helm helm-core
+    elscreen init-loader mozc auto-install helm helm-core multiple-cursors
     ;;coding
-    
+    json-mode 
     ))
 (dolist (package my/favorite-packages)
   (unless (package-installed-p package)
