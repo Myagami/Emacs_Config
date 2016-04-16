@@ -1,0 +1,5 @@
+.cask/
+.mc-list.el
+auto-save-alist/
+history
+*~
