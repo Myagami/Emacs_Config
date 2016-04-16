@@ -1,5 +1,5 @@
 .cask/
-.mc-list.el
+.mc-lists.el
 auto-save-alist/
 history
 *~
