@@ -50,3 +50,6 @@
 
 ;; yes or noをy or n
 (fset 'yes-or-no-p 'y-or-n-p)
+
+;; Line top push C-k All Delete
+(setq kill-whole-line t)
