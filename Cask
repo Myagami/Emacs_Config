@@ -1,16 +1,17 @@
 (source gnu)
-(source melpa-stable)
+(source melpa)
 (source marmalade)
 (source org)
 
+
 (depends-on "elscreen")
 (depends-on "init-loader")
-(depends-on "mozc")
-(depends-on "auto-install")
+(depends-on "mozc" :git "git@github.com:emacsmirror/mozc.git")
 (depends-on "helm-core")
 (depends-on "helm")
 (depends-on "multiple-cursors")
-;;(depends-on "elscreen")
+(depends-on "php-mode")
+
 ;;(depends-on "elscreen")
 ;;(depends-on "elscreen")
 ;;(depends-on "elscreen")
