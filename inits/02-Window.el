@@ -69,6 +69,7 @@
 (ffap-bindings)
 
 ;;elscreen
+(require 'elscreen)
 (elscreen-start)
 (setq elscreen-prefix-key "\C-z")
 (setq elscreen-display-tab nil)
