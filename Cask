@@ -11,7 +11,7 @@
 (depends-on "helm")
 (depends-on "multiple-cursors")
 (depends-on "php-mode")
-(depands-on "open-junk-file")
+;;(depands-on "open-junk-file")
 ;;(depends-on "elscreen")
 ;;(depends-on "elscreen")
 ;;(depends-on "elscreen")
